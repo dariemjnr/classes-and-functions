@@ -1,5 +1,3 @@
-from turtle import ScrolledCanvas
-
 
 class Student:
     def __init__(self):
